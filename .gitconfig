@@ -1,3 +1,5 @@
 [user]
 	name = Oneonz
 	email = nungtitmun@gmail.com
+[credential]
+	helper = store
